@@ -22,8 +22,7 @@ Este projeto foi desenvolvido com dedicação para demonstrar as habilidades adq
 
 ## Funcionalidades
 
-- ✅ *Botões clicáveis* com feedback visual e responsividade  
-- ✅ *Modo claro e escuro*, alternável com um clique  
+- ✅ *Botões clicáveis* com feedback visual e responsividade   
 - ✅ *Links funcionais* para navegação entre páginas e recursos externos  
 - ✅ *Animações suaves* para uma experiência visual agradável  
 
